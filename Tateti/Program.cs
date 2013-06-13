@@ -7,12 +7,15 @@ namespace tateti
     {
         public static void Main(string[] args)
         {
+            //declaramos e inicializamos los objetos
             Tablero tablero = new Tablero();
             Jugador jugador1 = new Jugador("X");
             Jugador jugador2 = new Jugador("O");
-
+            //inicializamos las variables
             int jugador_actual = 1;
             int ficha_actual = 1;
+
+            //iniciamos un bucle que dure indifinidamente hasta que el  juego finalice
             while (true)
             {
                 tablero.PintarTablero();
