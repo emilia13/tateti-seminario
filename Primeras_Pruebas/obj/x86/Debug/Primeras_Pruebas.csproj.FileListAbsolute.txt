@@ -1,0 +1,17 @@
+Z:\TECNICATURAS\Lugo Emilia\Seminario_2013\Seminario_2013\Primeras_Pruebas\bin\Debug\Primeras_Pruebas.exe
+Z:\TECNICATURAS\Lugo Emilia\Seminario_2013\Seminario_2013\Primeras_Pruebas\bin\Debug\Primeras_Pruebas.pdb
+Z:\TECNICATURAS\Lugo Emilia\Seminario_2013\Seminario_2013\Primeras_Pruebas\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\TECNICATURAS\Lugo Emilia\Seminario_2013\Seminario_2013\Primeras_Pruebas\obj\x86\Debug\Primeras_Pruebas.exe
+Z:\TECNICATURAS\Lugo Emilia\Seminario_2013\Seminario_2013\Primeras_Pruebas\obj\x86\Debug\Primeras_Pruebas.pdb
+C:\Users\Notebook\Desktop\Seminario_2013\Seminario_2013\Primeras_Pruebas\obj\x86\Debug\Primeras_Pruebas.exe
+C:\Users\Notebook\Desktop\Seminario_2013\Seminario_2013\Primeras_Pruebas\obj\x86\Debug\Primeras_Pruebas.pdb
+I:\Seminario_2013\Seminario_2013\Primeras_Pruebas\obj\x86\Debug\Primeras_Pruebas.exe
+I:\Seminario_2013\Seminario_2013\Primeras_Pruebas\obj\x86\Debug\Primeras_Pruebas.pdb
+I:\Seminario_2013\Seminario_2013\Primeras_Pruebas\bin\Debug\Primeras_Pruebas.exe
+I:\Seminario_2013\Seminario_2013\Primeras_Pruebas\bin\Debug\Primeras_Pruebas.pdb
+I:\Seminario_2013\Seminario_2013\Primeras_Pruebas\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Seminario_2013\Seminario_2013\Primeras_Pruebas\obj\x86\Debug\Primeras_Pruebas.exe
+E:\Seminario_2013\Seminario_2013\Primeras_Pruebas\obj\x86\Debug\Primeras_Pruebas.pdb
+E:\Seminario_2013\Seminario_2013\Primeras_Pruebas\bin\Debug\Primeras_Pruebas.exe
+E:\Seminario_2013\Seminario_2013\Primeras_Pruebas\bin\Debug\Primeras_Pruebas.pdb
+E:\Seminario_2013\Seminario_2013\Primeras_Pruebas\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Primeras_Pruebas", "Primeras_Pruebas\Primeras_Pruebas.csproj", "{63361D1D-625C-419F-A6C0-CE4F184A4A08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tateti", "Tateti\Tateti.csproj", "{D5E32DCD-18C4-4CB7-8E32-48C678DAB252}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63361D1D-625C-419F-A6C0-CE4F184A4A08}.Debug|x86.ActiveCfg = Debug|x86
+		{63361D1D-625C-419F-A6C0-CE4F184A4A08}.Debug|x86.Build.0 = Debug|x86
+		{63361D1D-625C-419F-A6C0-CE4F184A4A08}.Release|x86.ActiveCfg = Release|x86
+		{63361D1D-625C-419F-A6C0-CE4F184A4A08}.Release|x86.Build.0 = Release|x86
+		{D5E32DCD-18C4-4CB7-8E32-48C678DAB252}.Debug|x86.ActiveCfg = Debug|x86
+		{D5E32DCD-18C4-4CB7-8E32-48C678DAB252}.Debug|x86.Build.0 = Debug|x86
+		{D5E32DCD-18C4-4CB7-8E32-48C678DAB252}.Release|x86.ActiveCfg = Release|x86
+		{D5E32DCD-18C4-4CB7-8E32-48C678DAB252}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
